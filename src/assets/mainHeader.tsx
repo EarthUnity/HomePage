@@ -134,7 +134,7 @@ export function MainHeader() {
               }}
             >
               <Link to="/">
-                <img src="/images/logo/LargeIcon.png" height="80px" />
+                <img src="/images/logo/LargeLogo.png" height="80px" />
               </Link>
             </Typography>
 
