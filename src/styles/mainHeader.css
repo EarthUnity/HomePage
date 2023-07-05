@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+
+.mainHeader {
+    right: -10px;
+    width: 100vw;
+    padding-left: 20px;
+    height: 90px;
+}
+
+.mainHeader .sns-icon {
+    height: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+.mainHeader .headerSnsButton {
+    position: relative;
+}
+
+.mainHeader a{
+    color: rgba(0, 0, 0, 0.8);
+    text-decoration: none;
+    padding: 6px, 8px;
+}
+
+body {
+    padding-top: 90px;
+}
